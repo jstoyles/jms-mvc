@@ -47,3 +47,4 @@ class Test_Model
 		return $execFn;
 	}
 }
+?>
