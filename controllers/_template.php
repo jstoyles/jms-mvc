@@ -35,3 +35,4 @@ class Test_Controller
 		$view->assign('content2' , $content2);
 	}
 }
+?>
