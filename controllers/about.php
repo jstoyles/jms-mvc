@@ -13,3 +13,4 @@ class About_Controller
 		$view->assign('var1', 'About page variable.');
 	}
 }
+?>
